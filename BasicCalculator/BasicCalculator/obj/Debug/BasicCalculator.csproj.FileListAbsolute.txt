@@ -1,0 +1,20 @@
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojResolveAssemblyReference.cache
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.Cache
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\rafas\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojResolveAssemblyReference.cache
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.Cache
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\rafas\source\repos\AngelSix - Tutorials\C# Programming (Beginners)\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
